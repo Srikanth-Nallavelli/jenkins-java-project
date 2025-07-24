@@ -44,11 +44,10 @@
 
     <pluginRepositories>
         <pluginRepository>
-            <id>maven1</id>
-            <name>Maven.org</name>
-            <url>http://repo1.maven.org/maven2</url>
+            <id>maven-central</id>
+            <name>maven-central</name>
+            <url>https://repo1.maven.org/maven2</url>
         </pluginRepository>
-    </pluginRepositories>
 
     <build>
         <plugins>
