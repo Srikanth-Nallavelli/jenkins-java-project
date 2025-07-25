@@ -5,7 +5,7 @@
     <title>Simple JSP Calculator</title>
 </head>
 <body>
-    <h2>JSP Calculator</h2>
+    <h2>Srikanth Calculator</h2>
     <form method="post">
         Number 1: <input type="text" name="num1"><br><br>
         Number 2: <input type="text" name="num2"><br><br>
